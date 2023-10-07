@@ -1,1 +1,3 @@
-FiveM Framework made In JavaScript
+######################################
+# FiveM Framework made In JavaScript #
+######################################
